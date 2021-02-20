@@ -2,23 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haijia2000.github.io</id>
     <title>海家</title>
-    <updated>2021-02-20T02:53:37.540Z</updated>
+    <updated>2021-02-20T02:57:54.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haijia2000.github.io"/>
     <link rel="self" href="https://haijia2000.github.io/atom.xml"/>
     <logo>https://haijia2000.github.io/images/avatar.png</logo>
     <icon>https://haijia2000.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 海家</rights>
-    <entry>
-        <title type="html"><![CDATA[Hello ]]></title>
-        <id>https://haijia2000.github.io/post/hello-gridea/</id>
-        <link href="https://haijia2000.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-]]></content>
-    </entry>
 </feed>
