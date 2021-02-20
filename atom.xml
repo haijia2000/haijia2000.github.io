@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haijia2000.github.io</id>
-    <title>海家</title>
-    <updated>2021-02-20T02:58:13.907Z</updated>
+    <title></title>
+    <updated>2021-02-20T02:58:50.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haijia2000.github.io"/>
     <link rel="self" href="https://haijia2000.github.io/atom.xml"/>
     <logo>https://haijia2000.github.io/images/avatar.png</logo>
     <icon>https://haijia2000.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 海家</rights>
+    <rights>All rights reserved 2021, </rights>
 </feed>
